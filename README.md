@@ -1,5 +1,7 @@
 # asml-product-p9-tco
 
+> **Champion FREEZE (2026-09-10):** no new hills / no new tickets. This README is the ship surface — polish docs only. See asml-bench `corpus/notes/champion-freeze-2026-09-10-product-ship.md`.
+
 Honest LPP vs FEL TCO — **may lose**. Card: `tco-v1`.
 
 ```python
